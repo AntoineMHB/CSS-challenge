@@ -48,9 +48,27 @@
 
 .mini_body {
     width: 100%;
-    height: 30%;
-    margin: 0;
-    padding: 0;
+    min-height: 50vh;
     background-image: url('images/image_father_and_girl.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.Alles_gut {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+
+}
+
+.card {
+    width: 1000px;
+    height: 90px;
+    background-color: white;
+    justify-self: center;
+    padding-top: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
